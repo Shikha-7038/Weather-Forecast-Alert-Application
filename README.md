@@ -60,7 +60,6 @@ Weather-Forecast-Alert-Application/
 ├── reports/ # Alert & complete reports
 ├── data/ # Data storage
 ├── images/ # Screenshots for documentation
-├── .env.example # Environment template
 ├── .gitignore # Git ignore rules
 ├── requirements.txt # Python dependencies
 ├── main.py # Application entry point
@@ -80,7 +79,7 @@ After building this project, you will understand:
  - **Modular Programming** - Organizing code into reusable modules
 
 ## 🔧 Troubleshooting
-Common Issues & Solutions
+
 | Issue | Solution |
 | Module not found | Run pip install -r requirements.txt |
 | API key error | Set SIMULATION_MODE=True or get valid API key |
