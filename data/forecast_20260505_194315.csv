@@ -1,0 +1,6 @@
+date,temp_max,temp_min,temp_avg,humidity_avg,rain_mm,description
+2026-05-05,23.0,15.0,18.0,61,14.8,clear sky
+2026-05-06,23.2,15.2,18.2,51,18.1,light rain
+2026-05-07,21.8,13.8,16.8,64,0.8,scattered clouds
+2026-05-08,23.2,15.2,18.2,78,9.5,scattered clouds
+2026-05-09,26.2,18.2,21.2,65,4.0,light rain
